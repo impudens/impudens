@@ -76,7 +76,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/impudens/badges/large)
 
 ### ⚙️ GitHub статистика:
 
