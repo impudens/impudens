@@ -13,7 +13,7 @@
 
 - :zap: Моя цель - работать в IT через полгода.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i1_trofimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:troff.webdev@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i1_trofimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i1_trofimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:troff.webdev@gmail.com)
 
 ---
 
