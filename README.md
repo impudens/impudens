@@ -5,15 +5,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания бота под nft-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм - канал посвященный web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания бота под nft-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
 
-- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
+- :telescope: Изучаю веб-разработку на курсах HTML-academy!
 
-- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
+- :seedling: Ожидаю результатов от Школы 21.
 
-- :zap: Хочу освоить новую проффесию и найти работу.
+- :zap: Моя цель - работать в IT через полгода.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i1_trofimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:troff.webdev@gmail.com)
 
 ---
 
