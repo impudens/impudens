@@ -76,7 +76,10 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/impudens/badges/large)
+![codewars](https://www.codewars.com/users/impudens/badges/large) 
+  <a href="https://www.linkedin.com/in/impudens/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+  </a>
 
 ### ⚙️ GitHub статистика:
 
@@ -86,7 +89,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=impudens&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=impudens&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
