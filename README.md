@@ -74,11 +74,9 @@
 
 ---
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/impudens/badges/large) 
-  <a href="https://www.linkedin.com/in/impudens/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+### 💻 Codewars: 
+  <a href="https://www.codewars.com/users/impudens" target="_blank">
+    ![codewars](https://www.codewars.com/users/impudens/badges/large) 
   </a>
 
 ### ⚙️ GitHub статистика:
