@@ -75,9 +75,8 @@
 ---
 
 ### 💻 Codewars: 
-  <a href="https://www.codewars.com/users/impudens" target="_blank">
-    ![codewars](https://www.codewars.com/users/impudens/badges/large) 
-  </a>
+
+![codewars](https://www.codewars.com/users/impudens/badges/large) 
 
 ### ⚙️ GitHub статистика:
 
