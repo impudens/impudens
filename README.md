@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" disabled width="30px">. Мой путь в IT начался с написания бота под NFT-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания бота под NFT-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
 
 - :telescope: Изучаю веб-разработку на курсах HTML-academy!
 
@@ -39,7 +39,9 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <a href="https://www.linkedin.com/in/impudens/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
@@ -61,16 +63,13 @@
 
 ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Курсы                                                                     | Дата              |
+| --------------------------------------------------------------------------| :---------------: |
+| htmlacademy.ru/ HTML и CSS. Профессиональная вёрстка сайтов               | 05/2022 - 07/2022 |
+| htmlacademy.ru/ HTML и CSS. Адаптивная вёрстка и автоматизация            | 07/2022 - 09/2022 |
+| htmlacademy.ru/ JavaScript. Профессиональная разработка веб-интерфейсов   | 09/2022 - 11/2022 |
+| Интенисив Школы 21 (СБЕР) на языке C                                      | 02/2023 - 02/2022 |
+| htmlacademy.ru/ JavaScript. Архитектура клиентских приложений             | 01/2023 - xx/2022 |
 
 ---
 
